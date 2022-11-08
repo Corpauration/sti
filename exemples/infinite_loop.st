@@ -1,0 +1,7 @@
+push 1
+push 1
+add
+dup
+print
+push 1
+jumpif 1
