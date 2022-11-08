@@ -1,11 +1,11 @@
 # sti
 
-simplest STack Interpreter
+simplest STack Interpreter  
 made for educational purpose
 
 ## Compilation
 
-  $ make
+	$ make
   
 ## Quickstart
 
@@ -20,7 +20,7 @@ print
 
 Run :
 
-  $ ./sti test.st
+	$ ./sti test.st
   
   
 ## Instruction list
